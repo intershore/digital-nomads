@@ -20,3 +20,7 @@ date: 2018-06-19
 # Websites
 
 * [Freedomsurfer](https://www.freedomsurfer.com/)
+
+# Links
+
+* [awesome-digital-nomads](https://github.com/cbovis/awesome-digital-nomads)
