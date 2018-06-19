@@ -19,6 +19,7 @@ date: 2018-06-19
 # Communities
 
 * [Internations](https://www.internations.org/)
+* [Nomad Cruise](https://www.nomadcruise.com/)
 
 # Websites
 
