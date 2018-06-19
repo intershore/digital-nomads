@@ -10,6 +10,7 @@ date: 2018-06-19
 # Flights
 
 * [Skyscanner](http://skyscanner.com/) - search by country and month.
+* [Kiwi](https://www.kiwi.com) - search by country, time. Map.
 
 
 # Communities
