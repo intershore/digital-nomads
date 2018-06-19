@@ -16,7 +16,6 @@ date: 2018-06-19
 
 * [Airbnb](https://www.airbnb.com/)
 
-
 # Communities
 
 * [Internations](https://www.internations.org/)
