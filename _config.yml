@@ -20,6 +20,8 @@ defaults:
     type: pages
   values:
     layout: page
+plugins:
+  - jekyll-readme-index
 description: Links for digital nomads
 github_repo: digital-nomads
 github_username: intershore
