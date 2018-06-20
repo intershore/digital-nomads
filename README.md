@@ -1,3 +1,8 @@
+---
+title: Digital Nomads
+---
+
+
 # Flights
 
 * [Skyscanner](http://skyscanner.com/) - search by country and month.
