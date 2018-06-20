@@ -25,6 +25,7 @@ date: 2018-06-19
 # Software
 
 * [Privacy Tools](https://www.privacytools.io/)
+  * VPN, Browsers, Email, Search, Messengers, File Sharing, Cloud Storage, Password Managers, File Encryption, DNS, Notes, OS. 
 
 ## Apps
 
