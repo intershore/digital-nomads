@@ -1,8 +1,3 @@
----
-title: 'Digital Nomads'
-date: 2018-06-19
----
-
 # Flights
 
 * [Skyscanner](http://skyscanner.com/) - search by country and month.
