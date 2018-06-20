@@ -1,5 +1,7 @@
 # Digital Nomads Links
 
+---
+
 # Flights
 
 * [Skyscanner](http://skyscanner.com/) - search by country and month.
@@ -34,6 +36,4 @@
 * [awesome-digital-nomads](https://github.com/cbovis/awesome-digital-nomads)
 
 ---
-Web: https://intershore.github.io/digital-nomads/
-
-Repo: https://github.com/intershore/digital-nomads/
+🔗 [Web](https://intershore.github.io/digital-nomads/), ✏️ [Repo](https://github.com/intershore/digital-nomads/)
