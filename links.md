@@ -3,10 +3,6 @@ title: 'Links'
 date: 2018-06-19
 ---
 
-# Apps
-
-* [nomad.equipment/apps](http://nomad.equipment/apps/)
-
 # Flights
 
 * [Skyscanner](http://skyscanner.com/) - search by country and month.
@@ -25,6 +21,15 @@ date: 2018-06-19
 # Websites
 
 * [Freedomsurfer](https://www.freedomsurfer.com/)
+
+# Software
+
+* [Privacy Tools](https://www.privacytools.io/)
+
+## Apps
+
+* [nomad.equipment/apps](http://nomad.equipment/apps/)
+
 
 # Links
 
