@@ -30,6 +30,11 @@
 
 * [nomad.equipment/apps](http://nomad.equipment/apps/)
 
+## Law
+
+* Proof of Residence for KYC, ordered from easy to hard:
+  * Utility bill (Internet/TV, electricity, water), tax number, tax return, [geotagging](https://en.wikipedia.org/wiki/Geotagging)
+
 
 # Links
 
