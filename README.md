@@ -36,6 +36,9 @@
 * Proof of Residence for KYC, ordered from easy to hard:
   * Utility bill (Internet/TV, electricity, water), tax number, tax return, [geotagging](https://en.wikipedia.org/wiki/Geotagging)
 
+# Jobs
+
+* [remoteok](https://remoteok.io/) - tech and nontech digital nomad jobs.
 
 # Links
 
