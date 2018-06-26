@@ -16,6 +16,7 @@
 * [Internations](https://www.internations.org/)
 * [Nomad Cruise](https://www.nomadcruise.com/)
 * [DNX Festival](https://www.dnxfestival.com/)
+* [Nomad List](https://nomadlist.com/)
 
 # Websites
 
